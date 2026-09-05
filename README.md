@@ -7,3 +7,4 @@ ssss
 sẵn sàng chưa
 chiển khai 
 tiếp tục 
+tôi bị khùnga
