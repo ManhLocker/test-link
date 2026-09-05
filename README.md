@@ -5,3 +5,4 @@ dưq324
 tôi bị khùnga
 ssss
 sẵn sàng chưa
+chiển khai 
